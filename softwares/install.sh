@@ -4,5 +4,6 @@
 ~/Environment/softwares/sdkman.sh
 ~/Environment/softwares/android-studio.sh
 ~/Environment/softwares/slack.sh
+~/Environment/softwares/taskbook.sh
 
 echo "\n\n\nUSE SDKMAN TO DOWNLOAD CANDIDATES (Kotlin, Grandle and Java)\n\n\n"
